@@ -49,4 +49,4 @@ The config.txt file controls how the evolution works. The population is set to 3
 
 ## What to Expect
 
-In the first few generations most cars will crash almost immediately. By generation 5 or so some cars will start making it around the first corner. After 20 or more generations the best cars should be able to go around the whole track without crashing.
+Through many iterations and repeated experimentation, I optimized the implementation so the car can successfully navigate the track within the first few attempts. Future versions of the project will introduce higher difficulty levels and more complex track environments.
